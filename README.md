@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/src200)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=src200.src200)
 
-My name is Sharath Challa and I'm a full-stack software engineer(mostly frontend) currently working at UnitedHealth Group.
+My name is Sharath Challa and I'm a full-stack software engineer(mostly frontend) currently working at UnitedHealth Group.<br>
 I'm from India, living in Hyderabad, Telangana.
 
 
