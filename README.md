@@ -17,3 +17,4 @@ I'm from India, living in Hyderabad, Telangana.
 ### Checkout some of my experiments
   - [Trend Talks](https://github.com/src200/trendtalks)
   - [Saliency aware vertical video cropping](https://crisprvideo.netlify.com/)
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
