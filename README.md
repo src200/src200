@@ -15,6 +15,6 @@ I'm from India, living in Hyderabad, Telangana.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=src200&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 
 ### Checkout some of my experiments
-  - [Trend Talks](http://trendtalks.herokuapp.com/)
+  - [Trend Talks](https://trendtalks.herokuapp.com/)
   - [Saliency aware vertical video cropping](https://crisprvideo.netlify.com/)
 <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
