@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=src200.src200)
 
-My name is Sharath Challa and I'm a Lead software engineer currently working at Sidewalk.<br>
+My name is Sharath Challa and I'm a Lead software engineer currently working at Sidewalk(https://sidewalk.ai/).<br>
 I'm from India, living in Hyderabad, Telangana.
 
 
