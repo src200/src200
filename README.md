@@ -8,12 +8,6 @@
 My name is Sharath Challa and I'm a Lead Software Engineer currently working at Sidewalk(https://sidewalk.ai/).<br>
 I'm from India, living in Hyderabad, Telangana.
 
-
-📈 **My GitHub Stats:**
-
-  <img src="https://github-readme-stats.vercel.app/api?username=src200&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=src200&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-
 ### Checkout some of my experiments
   - [Trend Talks](https://trendtalks.herokuapp.com/)
   - [Saliency aware vertical video cropping](https://crisprvideo.netlify.com/)
