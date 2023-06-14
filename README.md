@@ -11,5 +11,5 @@ I'm from India, living in Hyderabad, Telangana.
 ### Checkout some of my experiments
   - [Trend Talks](https://trendtalks.herokuapp.com/)
   - [Saliency aware vertical video cropping](https://crisprvideo.netlify.com/)
-  - [Storyflow(Currently cooking)](https://storyflow.video/)
+  - [Storyflow](https://storyflow.video/)
 <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
