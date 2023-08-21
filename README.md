@@ -3,8 +3,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/src200)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/src200)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=src200.src200)
-
 My name is Sharath Challa and I'm a Lead Software Engineer currently working at Sidewalk(https://sidewalk.ai/).<br>
 I'm from India, living in Hyderabad, Telangana.
 
