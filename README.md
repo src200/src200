@@ -7,7 +7,9 @@ My name is Sharath Challa and I'm a Lead Software Engineer currently working at 
 I'm from India, living in Hyderabad, Telangana.
 
 ### Checkout some of my experiments
-  - [Trend Talks](https://trendtalks.herokuapp.com/)
+  - [SlashGPT](https://slashgpt.xyz/)
   - [Saliency aware vertical video cropping](https://crisprvideo.netlify.com/)
   - [Storyflow](https://storyflow.video/)
+  - [Trend Talks](https://trendtalks.herokuapp.com/)
+    
 <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
