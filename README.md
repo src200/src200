@@ -8,6 +8,7 @@ I'm from India, living in Hyderabad, Telangana.
 
 ### Checkout some of my experiments
   - [SlashGPT](https://slashgpt.xyz/)
+  - [Infernix](https://infernix.vercel.app/)
   - [Saliency aware vertical video cropping](https://crisprvideo.netlify.com/)
   - [Storyflow](https://storyflow.video/)
   - [Trend Talks](https://trendtalks.herokuapp.com/)
