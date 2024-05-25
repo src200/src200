@@ -7,8 +7,9 @@ My name is Sharath Challa and I'm a Lead Software Engineer currently working at 
 I'm from India, living in Hyderabad, Telangana.
 
 ### Checkout some of my experiments
-  - [SlashGPT](https://slashgpt.xyz/)
-  - [Infernix](https://infernix.vercel.app/)
+  - [Customer Support AI](https://infernix.vercel.app/)
+  - [ChatGPT chrome extension in every text input](slashgpt.vercel.app)
+  - [Affiliate Management Platform](https://toppromoter.vercel.app/)
   - [Saliency aware vertical video cropping](https://crisprvideo.netlify.com/)
   - [Storyflow](https://storyflow.video/)
   - [Trend Talks](https://trendtalks.herokuapp.com/)
